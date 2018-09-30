@@ -8,7 +8,15 @@ public class start {
 		
 		
 		System.out.println("Das ist die zweite Änderung!");
-
+		
+		Student s1 = new Student();
+		
+		s1.name = "Benedikt";
+		s1.Matrikelnummer = 7200741;
+		s1.Studiengang = "WI";
+		
+		
+		
 		
 		
 	
