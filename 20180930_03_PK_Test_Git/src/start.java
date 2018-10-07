@@ -15,7 +15,7 @@ public class start {
 		s1.Matrikelnummer = 7200741;
 		s1.Studiengang = "WI";
 		
-		
+		System.out.println(s1.name);
 		
 		
 		
