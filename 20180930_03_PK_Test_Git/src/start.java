@@ -1,3 +1,4 @@
+import java.util.concurrent.SynchronousQueue;
 
 public class start {
 
@@ -16,6 +17,8 @@ public class start {
 		s1.Studiengang = "WI";
 		
 		System.out.println(s1.name);
+		System.out.println(s1.Matrikelnummer);
+		System.out.println(s1.Studiengang);
 		
 		
 		
